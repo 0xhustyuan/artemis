@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "bin/artemis",
+    "bin/blackpearl",
     "bin/cli",
     "crates/artemis-core",
     "crates/generator",
